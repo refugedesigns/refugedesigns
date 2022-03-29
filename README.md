@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=refugedesigns" alt="refugedesigns" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/erasmusantwi" target="blank"><img src="https://img.shields.io/twitter/follow/erasmusantwi?logo=twitter&style=for-the-badge" alt="erasmusantwi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/erasmusantwi" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="erasmusantwi" /></a> </p>
 
 - 🔭 I’m currently working on personal projects [nasa-mission-api](https://github.com/refugedesigns/nasa-project)
 
