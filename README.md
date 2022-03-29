@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=refugedesigns" alt="refugedesigns" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@erasmusantwi" target="blank"><img src="https://img.shields.io/twitter/follow/@erasmusantwi?logo=twitter&style=for-the-badge" alt="@erasmusantwi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/erasmusantwi" target="blank"><img src="https://img.shields.io/twitter/follow/erasmusantwi?logo=twitter&style=for-the-badge" alt="erasmusantwi" /></a> </p>
 
 - 🔭 I’m currently working on personal projects [nasa-mission-api](https://github.com/refugedesigns/nasa-project)
 
@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **refugedesigns17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DPV0DbTbcK8apGzgLywiNnYcBNPVlR8S/view](https://drive.google.com/file/d/1DPV0DbTbcK8apGzgLywiNnYcBNPVlR8S/view)
+- 📄 Know about my experiences [https://bit.ly/3tM0Mpq](https://bit.ly/3tM0Mpq)
 
 - ⚡ Fun fact **I am self motivated and never gives up!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@erasmusantwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@erasmusantwi" height="30" width="40" /></a>
+<a href="https://twitter.com/erasmusantwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erasmusantwi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antwi-erasmus-2a0104191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antwi-erasmus-2a0104191" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14461778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14461778" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/refugedesigns17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="refugedesigns17" height="30" width="40" /></a>
