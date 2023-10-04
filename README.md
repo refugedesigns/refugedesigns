@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/erasmusantwi" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="erasmusantwi" /></a> </p>
 
-- 🔭 I’m currently working on personal projects [nasa-mission-api](https://github.com/refugedesigns/nasa-project)
+- 🔭 I’m currently working on personal projects [next-tailwind](https://github.com/refugedesigns/next-tailwind)
 
 - 👨‍💻 All of my projects are available at [https://driwwwle.com/erasmusantwi](https://driwwwle.com/erasmusantwi)
 
